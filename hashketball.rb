@@ -31,6 +31,5 @@ def game_hash
         {:slam_dunks =>[2,10,5,0,12]}
       ]
     ]
-    
   }
 end
